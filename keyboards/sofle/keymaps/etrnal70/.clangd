@@ -1,0 +1,4 @@
+CompileFlags:
+  Add: [-Wno-attributes]
+  Remove: [-mcall-prologues]
+  Compiler: avr-gcc
