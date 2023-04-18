@@ -1,5 +1,3 @@
-SRC += libs/custom_shift_keys.c
-
 COMBO_ENABLE = yes
 OLED_ENABLE = yes
 ENCODER_ENABLE = yes
@@ -23,3 +21,6 @@ SPACE_CADET_ENABLE = no
 GRAVE_ESC_ENABLE = no
 MAGIC_ENABLE = no
 MUSIC_ENABLE = no
+
+SRC += libs/custom_shift_keys.c
+SRC += oled.c misc.c
