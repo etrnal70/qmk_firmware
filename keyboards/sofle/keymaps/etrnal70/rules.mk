@@ -1,3 +1,5 @@
+SRC += libs/custom_shift_keys.c
+
 COMBO_ENABLE = yes
 OLED_ENABLE = yes
 ENCODER_ENABLE = yes
