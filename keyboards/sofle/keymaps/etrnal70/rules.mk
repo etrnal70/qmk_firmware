@@ -8,6 +8,7 @@ QMK_SETTINGS = no
 WPM_ENABLE = yes
 
 # Hardware
+SPLIT_KEYBOARD = yes
 OLED_ENABLE = yes
 ENCODER_ENABLE = yes
 BACKLIGHT_ENABLE = no

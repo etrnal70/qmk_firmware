@@ -24,6 +24,8 @@
 #define TAPPING_TERM_PER_KEY
 
 #define SPLIT_WPM_ENABLE
+#define SPLIT_OLED_ENABLE
+
 #define NO_MUSIC_MODE
 #define LAYER_STATE_8BIT
 
