@@ -18,7 +18,5 @@ enum sofle_layers {
     _PR, // Primary
     _SE, // Secondary
     _MI, // Miscellaneous
-    // TODO Will be replaced by trackball
-    _MS, // Mouse
+    _GM, // Gaming
 };
-
